@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color: #f4f4dc;
+}
+ 
+.laranja{
+    margin: 10px;
+    padding: 10px;
+}
+
+#Voltar {
+    background-color: black;
+    color: #ffff;
+    border-radius: 999px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+footer {
+    margin: 39rem;
+}
